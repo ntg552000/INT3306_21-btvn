@@ -17,8 +17,8 @@
     <input type="text" name="input text" placeholder="Input text" id="input-text">
     <input type="password" name="input password" placeholder="Input password" id="input-password">
     <input type="number" name="input number" placeholder="Input number" id="input-number">
-    <input type="checkbox" name="input checkbox" id="input-checkbox">
     <input type="button" value="submit" name="input button" id="input-text">
+    <input type="checkbox" name="input checkbox" id="input-checkbox">
   </div>
   <div class="image">
     <img src="https://scontent.fhan3-1.fna.fbcdn.net/v/t1.15752-9/119288432_242395830487762_4189596489502926061_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=zSIc4GtfedUAX-yY8z-&_nc_ht=scontent.fhan3-1.fna&oh=18c7d98ee3f9828a01fd03c41d7384a8&oe=5F89E08C" alt="my photo">
@@ -35,10 +35,10 @@
       </thead>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Black</td>
-          <td>#000000</td>
-          <td>rgb(0,0,0)</td>
+          <td>3</td>
+          <td>Red</td>
+          <td>#FF0000</td>
+          <td>rgb(255,0,0</td>
         </tr>
         <tr>
           <td>2</td>
@@ -89,6 +89,12 @@
           <td>rgb(192,192,192)</td>
         </tr>
         <tr>
+          <td>1</td>
+          <td>Black</td>
+          <td>#000000</td>
+          <td>rgb(0,0,0)</td>
+        </tr>
+        <tr>
           <td>10</td>
           <td>Gray</td>
           <td>#808080</td>
@@ -101,12 +107,6 @@
           <td>rgb(128,0,0))</td>
         </tr>
         <tr>
-          <td>12</td>
-          <td>Olive</td>
-          <td>#808000</td>
-          <td>rgb(128,128,0)</td>
-        </tr>
-        <tr>
           <td>13</td>
           <td>Green</td>
           <td>#008000</td>
@@ -117,12 +117,6 @@
           <td>Purple</td>
           <td>#800080</td>
           <td>rgb(128,0,128)</td>
-        </tr>
-        <tr>
-          <td>15</td>
-          <td>Teal</td>
-          <td>#008080</td>
-          <td>rgb(0,128,128)</td>
         </tr>
         <tr>
           <td>16</td>
